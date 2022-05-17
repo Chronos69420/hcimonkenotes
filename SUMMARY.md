@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Atomic Notation](README.md)
+* [⚛ Atomic Notation](README.md)
